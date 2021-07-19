@@ -1,0 +1,759 @@
+{"data": {
+"afjohannesburg": {
+    "region-members": [
+        "AO",
+        "BF",
+        "BI",
+        "BJ",
+        "BW",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CV",
+        "DJ",
+        "ER",
+        "ET",
+        "GA",
+        "GM",
+        "GN",
+        "GQ",
+        "GW",
+        "KE",
+        "KM",
+        "LR",
+        "LS",
+        "MG",
+        "ML",
+        "MR",
+        "MU",
+        "MW",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "SC",
+        "SH",
+        "SL",
+        "SN",
+        "SO",
+        "ST",
+        "SZ",
+        "TD",
+        "TG",
+        "TZ",
+        "UG",
+        "YT",
+        "ZA",
+        "ZM",
+        "ZW"
+    ]
+},
+"afnorth": {
+    "region-members": [
+        "BF",
+        "BJ",
+        "CI",
+        "CV",
+        "DZ",
+        "EG",
+        "EH",
+        "GH",
+        "GM",
+        "GN",
+        "GW",
+        "LR",
+        "LY",
+        "MA",
+        "ML",
+        "MR",
+        "NE",
+        "NG",
+        "SD",
+        "SH",
+        "SL",
+        "SN",
+        "TG",
+        "TN"
+    ]
+},
+"afsouth": {
+    "region-members": [
+        "AO",
+        "BI",
+        "BW",
+        "CD",
+        "CF",
+        "CG",
+        "CM",
+        "DJ",
+        "ER",
+        "ET",
+        "GA",
+        "GQ",
+        "KE",
+        "KM",
+        "LS",
+        "MG",
+        "MU",
+        "MW",
+        "MZ",
+        "NA",
+        "RW",
+        "SC",
+        "SO",
+        "ST",
+        "SZ",
+        "TD",
+        "TZ",
+        "UG",
+        "YT",
+        "ZA",
+        "ZM",
+        "ZW"
+    ]
+},
+"an": {
+    "region-members": [
+        "AN"
+    ]
+},
+"apauckland": {
+    "region-members": [
+        "NZ"
+    ]
+},
+"apbrisbane": {
+    "region-members": [
+        "AU/Northern Territory",
+        "AU/Queensland"
+    ]
+},
+"aphongkong": {
+    "region-members": [
+        "CN",
+        "HK",
+        "KH",
+        "LA",
+        "MM",
+        "MN",
+        "MO",
+        "PH",
+        "TW",
+        "VN"
+    ]
+},
+"apmelbourne": {
+    "region-members": [
+        "AU/South Australia",
+        "AU/Tasmania",
+        "AU/Victoria"
+    ]
+},
+"apnorth": {
+    "region-members": [
+        "CN",
+        "JP",
+        "MN",
+        "MO",
+        "TW"
+    ]
+},
+"apoc": {
+    "region-members": [
+        "OC",
+        "AU/Western Australia"
+    ]
+},
+"aposaka": {
+    "region-members": [
+        "JP/Aichi",
+        "JP/Ehime",
+        "JP/Fukui",
+        "JP/Fukuoka",
+        "JP/Gifu",
+        "JP/Hiroshima",
+        "JP/Hyogo",
+        "JP/Ishikawa",
+        "JP/Kagawa",
+        "JP/Kagoshima",
+        "JP/Kochi",
+        "JP/Kumamoto",
+        "JP/Kyoto",
+        "JP/Mie",
+        "JP/Miyazaki",
+        "JP/Nagasaki",
+        "JP/Oita",
+        "JP/Okayama",
+        "JP/Osaka",
+        "JP/Shiga",
+        "JP/Shimane",
+        "JP/Tokushima",
+        "JP/Toyama",
+        "JP/Wakayama",
+        "JP/Yamaguchi"
+    ]
+},
+"apperth": {
+    "region-members": [
+        "AU/Western Australia"
+    ]
+},
+"apseoul": {
+    "region-members": [
+        "KP",
+        "KR"
+    ]
+},
+"apsingapore": {
+    "region-members": [
+        "ID",
+        "MY",
+        "SG",
+        "TH"
+    ]
+},
+"apsoutheast": {
+    "region-members": [
+        "BN",
+        "HK",
+        "ID",
+        "KH",
+        "LA",
+        "MM",
+        "MY",
+        "PH",
+        "SG",
+        "TH",
+        "TL",
+        "VN"
+    ]
+},
+"apsydney": {
+    "region-members": [
+        "AU/Australian Capital Territory"
+    ]
+},
+"asiachennai": {
+    "region-members": [
+        "BD",
+        "LK",
+        "MV",
+        "IN/Andhra Pradesh",
+        "IN/Tamil Nadu",
+        "IN/West Bengal",
+        "IN/Karnataka",
+        "IN/Kerala"
+    ]
+},
+"asiadelhi": {
+    "region-members": [
+        "BT",
+        "NP",
+        "IN/Himachal Pradesh",
+        "IN/Uttar Pradesh",
+        "IN/Chandigarh",
+        "IN/Delhi",
+        "IN/Haryana",
+        "IN/Punjab",
+        "IN/Rajasthan",
+        "IN/Uttarakhand"
+    ]
+},
+"asiamumbai": {
+    "region-members": [
+        "AF",
+        "IN",
+        "KG",
+        "OM",
+        "TJ",
+        "UZ"
+    ]
+},
+"asiasouth": {
+    "region-members": [
+        "AF",
+        "BD",
+        "BT",
+        "IN",
+        "KG",
+        "KZ",
+        "LK",
+        "MV",
+        "NP",
+        "OM",
+        "QA",
+        "TJ",
+        "UZ"
+    ]
+},
+"eucentral": {
+    "region-members": [
+        "AD",
+        "AL",
+        "BA",
+        "BE",
+        "CH",
+        "ES",
+        "FR",
+        "GI",
+        "GR",
+        "HR",
+        "IT",
+        "LI",
+        "LU",
+        "MC",
+        "ME",
+        "MK",
+        "MT",
+        "NL",
+        "PT",
+        "RS",
+        "SI",
+        "SM",
+        "VA"
+    ]
+},
+"eueast": {
+    "region-members": [
+        "AM",
+        "AT",
+        "AX",
+        "AZ",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "FI",
+        "GE",
+        "HU",
+        "IL",
+        "IQ",
+        "JO",
+        "KW",
+        "LB",
+        "LT",
+        "LV",
+        "MD",
+        "NO",
+        "PL",
+        "PS",
+        "RO",
+        "RU",
+        "SA",
+        "SE",
+        "SK",
+        "SY",
+        "TR",
+        "UA"
+    ]
+},
+"eufrankfurt": {
+    "region-members": [
+        "AM",
+        "AZ",
+        "BG",
+        "CY",
+        "DE",
+        "GE",
+        "HU",
+        "KZ",
+        "MD",
+        "PL",
+        "RS"
+    ]
+},
+"eulondon": {
+    "region-members": [
+        "GB",
+        "GG",
+        "GH",
+        "JE",
+        "MA",
+        "NL",
+        "SJ"
+    ]
+},
+"eumadrid": {
+    "region-members": [
+        "ES",
+        "GI",
+        "PT"
+    ]
+},
+"eumanchester": {
+    "region-members": [
+        "FO",
+        "IE",
+        "IM",
+        "IS"
+    ]
+},
+"eumarseille": {
+    "region-members": [
+        "DZ",
+        "TN"
+    ]
+},
+"eumilan": {
+    "region-members": [
+        "AL",
+        "BA",
+        "HR",
+        "IT",
+        "ME",
+        "MT",
+        "SI",
+        "SM",
+        "VA"
+    ]
+},
+"eunorth": {
+    "region-members": [
+        "BE",
+        "LU",
+        "NL"
+    ]
+},
+"euparis": {
+    "region-members": [
+        "AD",
+        "BE",
+        "EG",
+        "EH",
+        "FR",
+        "LI",
+        "LU",
+        "LY",
+        "MC",
+        "MK",
+        "PK",
+        "SD"
+    ]
+},
+"eustockholm": {
+    "region-members": [
+        "AX",
+        "BY",
+        "DK",
+        "EE",
+        "FI",
+        "LT",
+        "LV",
+        "NO",
+        "RU",
+        "SE"
+    ]
+},
+"euvienna": {
+    "region-members": [
+        "AT",
+        "CZ",
+        "GR",
+        "HU",
+        "RO",
+        "SI",
+        "SK",
+        "TR",
+        "UA"
+    ]
+},
+"euwest": {
+    "region-members": [
+        "FO",
+        "GB",
+        "GG",
+        "IE",
+        "IM",
+        "IS",
+        "JE",
+        "SJ"
+    ]
+},
+"euzurich": {
+    "region-members": [
+        "CH"
+    ]
+},
+"medubai": {
+    "region-members": [
+        "AE",
+        "BH",
+        "IQ",
+        "IR",
+        "KW",
+        "QA",
+        "RW",
+        "SA",
+        "SY",
+        "YE"
+    ]
+},
+"metelaviv": {
+    "region-members": [
+        "IL"
+    ]
+},
+"meuae": {
+    "region-members": [
+        "AE"
+    ]
+},
+"naatlanta": {
+    "region-members": [
+        "US/South Carolina",
+        "US/Alabama",
+        "US/Georgia",
+        "US/Tennessee"
+    ]
+},
+"nacentral": {
+	"region-members": [
+	]
+},
+"nachicago": {
+    "region-members": [
+        "US/North Dakota",
+        "US/South Dakota",
+        "US/West Virginia",
+        "US/Illinois",
+        "US/Indiana",
+        "US/Iowa",
+        "US/Michigan",
+        "US/Minnesota",
+        "US/Missouri",
+        "US/Nebraska",
+        "US/Ohio",
+        "US/Wisconsin"
+    ]
+},
+"nadallas": {
+    "region-members": [
+        "AN",
+        "MX",
+        "US/Arkansas",
+        "US/Kansas",
+        "US/Louisiana",
+        "US/Mississippi",
+        "US/Oklahoma",
+        "US/Texas"
+    ]
+},
+"nadenver": {
+    "region-members": [
+        "US/New Mexico",
+        "US/Colorado",
+        "US/Utah",
+        "US/Wyoming"
+    ]
+},
+"naeast": {
+    "region-members": [
+        "US/District of Columbia",
+        "US/New Hampshire",
+        "US/New Jersey",
+        "US/New York",
+        "US/North Carolina",
+        "US/Rhode Island",
+        "US/South Carolina",
+        "US/Connecticut",
+        "US/Delaware",
+        "US/Georgia",
+        "US/Kentucky",
+        "US/Maine",
+        "US/Maryland",
+        "US/Massachusetts",
+        "US/Pennsylvania",
+        "US/Tennessee",
+        "US/Vermont",
+        "US/Virginia"
+    ]
+},
+"nalosangeles": {
+    "region-members": [
+        "US/Hawaii"
+    ]
+},
+"namiami": {
+    "region-members": [
+        "AG",
+        "AI",
+        "AW",
+        "BB",
+        "BL",
+        "BM",
+        "BS",
+        "BZ",
+        "CR",
+        "CU",
+        "DM",
+        "DO",
+        "EC",
+        "GD",
+        "GP",
+        "GT",
+        "HN",
+        "HT",
+        "JM",
+        "KN",
+        "KY",
+        "LC",
+        "MF",
+        "MQ",
+        "MS",
+        "NI",
+        "PA",
+        "PR",
+        "SV",
+        "TC",
+        "TT",
+        "VC",
+        "VG",
+        "VI",
+        "US/Puerto Rico",
+        "US/Florida"
+    ]
+},
+"namontreal": {
+    "region-members": [
+        "CA/Quebec"
+    ]
+},
+"nanewyork": {
+    "region-members": [
+        "US/New Hampshire",
+        "US/New Jersey",
+        "US/New York",
+        "US/Rhode Island",
+        "US/Connecticut",
+        "US/Maine",
+        "US/Massachusetts",
+        "US/Vermont"
+    ]
+},
+"nanorth": {
+    "region-members": [
+        "CA",
+        "GL",
+        "PM"
+    ]
+},
+"naphoenix": {
+    "region-members": [
+        "US/Arizona",
+        "US/Nevada"
+    ]
+},
+"nasanfrancisco": {
+    "region-members": [
+        "US/California"
+    ]
+},
+"naseattle": {
+    "region-members": [
+        "US/Alaska",
+        "US/Idaho",
+        "US/Montana",
+        "US/Oregon",
+        "US/Washington"
+    ]
+},
+"nasouth": {
+    "region-members": [
+        "BL",
+        "BM",
+        "BZ",
+        "CR",
+        "CU",
+        "DO",
+        "GT",
+        "HN",
+        "HT",
+        "MF",
+        "MQ",
+        "MX",
+        "NI",
+        "PA",
+        "PR",
+        "SV",
+        "US/New Mexico",
+        "US/Puerto Rico",
+        "US/Alabama",
+        "US/Arizona",
+        "US/Arkansas",
+        "US/Colorado",
+        "US/Florida",
+        "US/Kansas",
+        "US/Louisiana",
+        "US/Mississippi",
+        "US/Oklahoma",
+        "US/Texas",
+        "US/Utah"
+    ]
+},
+"navancouver": {
+    "region-members": [
+        "CA/British Columbia",
+        "CA/Northwest Territories",
+        "CA/Yukon Territory",
+        "CA/Alberta",
+        "CA/Saskatchewan"
+    ]
+},
+"nawashington": {
+    "region-members": [
+        "US/District of Columbia",
+        "US/North Carolina",
+        "US/Delaware",
+        "US/Kentucky",
+        "US/Maryland",
+        "US/Pennsylvania",
+        "US/Virginia"
+    ]
+},
+"nawest": {
+    "region-members": [
+        "CA/British Columbia",
+        "US/Alaska",
+        "US/California",
+        "US/Hawaii",
+        "US/Idaho",
+        "US/Montana",
+        "US/Nevada",
+        "US/Oregon",
+        "US/Washington",
+        "US/Wyoming"
+    ]
+},
+"sabogota": {
+    "region-members": [
+        "CO",
+        "GF",
+        "GY",
+        "SR",
+        "VE"
+    ]
+},
+"sabuenosaires": {
+    "region-members": [
+        "AR",
+        "UY"
+    ]
+},
+"sasantiago": {
+    "region-members": [
+        "BO",
+        "CL",
+        "PE"
+    ]
+},
+"sasaopaulo": {
+    "region-members": [
+        "BR",
+        "PY"
+    ]
+}}
+}
