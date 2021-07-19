@@ -34,7 +34,7 @@ class RegionData(object):
         for line in self.codes['main']['en']["localeDisplayNames"]['territories']:
             cncode = self.codes['main']['en']["localeDisplayNames"]['territories'][line]
             if re.match(country_name + ".*", cncode.lower(), re.I):
-                return line
+                return json.dumps({"country": country_name, "code": line})
 
     def getpopinfo(self, pop_code=None):
         """
